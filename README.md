@@ -10,7 +10,6 @@ example:  /state broken leg
 Command: /state
 
 
-preview :
-https://prnt.sc/Gj8NQLVTjOG-
-https://prnt.sc/mk_mLDSkcQhP
-https://prnt.sc/SFGfF6OZk6pv
+command preview : https://prnt.sc/Gj8NQLVTjOG-
+state preview : https://prnt.sc/mk_mLDSkcQhP
+removed state preview : https://prnt.sc/SFGfF6OZk6pv
