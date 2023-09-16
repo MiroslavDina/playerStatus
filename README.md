@@ -8,3 +8,9 @@ example:  /state broken leg
 
 **Remove state**
 Command: /state
+
+
+preview :
+https://prnt.sc/Gj8NQLVTjOG-
+https://prnt.sc/mk_mLDSkcQhP
+https://prnt.sc/SFGfF6OZk6pv
