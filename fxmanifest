@@ -1,0 +1,15 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author 'watermellon86'
+description 'A simple script /state command for qbcore counting'
+version '1.0.0'
+
+client_scripts {
+    'client.lua',
+    'config.lua',
+}
+
+server_script 'server.lua'
+
+dependency 'qb-core'
