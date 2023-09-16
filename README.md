@@ -1,6 +1,8 @@
 # Player Status for QBcore
 
-simple script showed over player ped status when you type command in chat. State will be showe whole time opver player ped until player type again command without 
+simple script for FiveM QbCore showed over player ped status when you type command in chat. State will be showe whole time opver player ped until player type again command without 
+
+Drop the wm-state folder into your [standalone]
 
 **Add state**
 Command : /state [sentece]
